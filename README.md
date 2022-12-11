@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagatheeskumar
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Linux, Scripting, Devops, Cloud
 - 🌱 I’m currently learning Shell Scripting, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jagathees.bjk@gmail.com
